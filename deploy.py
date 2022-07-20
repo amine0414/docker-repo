@@ -1,1 +1,1 @@
-print("this file for deployment of apps")
+print("this file for deployment of app")
